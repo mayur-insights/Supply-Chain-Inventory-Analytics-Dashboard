@@ -29,3 +29,15 @@ Tools & Technologies:
 - Power BI
 - Excel
 - SQL
+
+PowerBI Dashboard:
+
+![image alt](https://github.com/mayur-insights/Supply-Chain-Inventory-Analytics-Dashboard/blob/631636e50d79fab40a2f6f946299831a93cf0e8b/PowerBI%20Supply%20Chain%20Dashboard.png)
+
+Tableau Dashboard:
+
+![image alt](https://github.com/mayur-insights/Supply-Chain-Inventory-Analytics-Dashboard/blob/631636e50d79fab40a2f6f946299831a93cf0e8b/Tableau%20Supply%20Chain%20Dashboard.png)
+
+MS Excel Dashboard:
+
+![image alt](https://github.com/mayur-insights/Supply-Chain-Inventory-Analytics-Dashboard/blob/631636e50d79fab40a2f6f946299831a93cf0e8b/MS%20Excel%20Inventory%20Management%20Dashboard.png)
