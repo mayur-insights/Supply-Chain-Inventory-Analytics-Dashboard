@@ -1,4 +1,4 @@
-# Supply-Chain-Inventory-Analytics-Dashboard
+# Supply Chain Optimization & Inventory Analytics Dashboard:
 Interactive dashboards analyzing supply chain operations, inventory performance, and business insights.
 
 This project focuses on analyzing supply chain operations and inventory performance to derive actionable business insights. Interactive dashboards were developed to monitor key metrics and improve operational efficiency.
